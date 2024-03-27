@@ -1,0 +1,1228 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.contenedor-body {
+  width: 100%;
+  height: 5167px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.sectionOne {
+  width: 100%;
+  height: 700px;
+  background: url("../images/portada.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.texto-inicial {
+  width: 100%;
+  height: 397px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 80px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 151px;
+  left: 205px;
+  overflow: hidden;
+}
+.texto-contenido {
+  width: 100%;
+  height: 237px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  overflow: hidden;
+}
+.titulo-contenido {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Bold;
+  font-size: 56px;
+  opacity: 1;
+  text-align: center;
+}
+.descripcion-contenido {
+  width: 820px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 91px;
+  left: 105px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+
+.header {
+  width: 100%;
+  height: 120px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 15px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.header-imagen {
+  width: 190px;
+  height: 77px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 100px;
+  overflow: hidden;
+}
+
+.imagen-logo {
+  width: 200px;
+  height: 81px;
+  background: url("../images/logo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 100px;
+  overflow: hidden;
+}
+.header-buttons {
+  width: 491px;
+  height: 55px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  left: 271px;
+  overflow: hidden;
+}
+.position-buttons {
+  width: 355px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 15px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 0px;
+  overflow: hidden;
+}
+.home-button {
+  width: 46px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.diensten-button {
+  width: 70px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 79px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.contenedor-projecten-button {
+  width: 77px;
+  height: 28px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 182px;
+  overflow: hidden;
+}
+.projecten-button {
+  width: 77px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.contact-button {
+  width: 63px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 292px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+
+.sectionTwo {
+  width: 100%;
+  height: 1299px;
+  background: rgba(255,255,255,1);
+  padding: 80px 0px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 0px;
+  overflow: hidden;
+}
+.position-content {
+  width: 100%;
+  height: 1139px;
+  background: rgba(255,255,255,1);
+  margin: 48px;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  overflow: hidden;
+}
+.description {
+  width: 100%;
+  height: 158px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 0px;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.title-description {
+  width: 125px;
+  color: rgba(0,163,89,1);
+  position: absolute;
+  top: 24px;
+  left: 557px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded ExtraBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.description-text {
+  width: 613px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 96px;
+  left: 313px;
+  font-family: Montserrat;
+  font-weight: Light;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.services {
+  width: 100%;
+  height: 292px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 206px;
+  left: 0px;
+  overflow: hidden;
+}
+.services-content1 {
+  width: 400px;
+  height: 292px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.position-text-service {
+  width: 334px;
+  height: 244px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 33px;
+  overflow: hidden;
+}
+.title-service {
+  width: 334px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 33px;
+  opacity: 1;
+  text-align: center;
+}
+.descripcion-service {
+  width: 334px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 64px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.services-contect2 {
+  width: 400px;
+  height: 292px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 420px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.services-contect3 {
+  width: 400px;
+  height: 292px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 840px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.services-with-image {
+  width: 100%;
+  height: 593px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 546px;
+  left: 0px;
+  overflow: hidden;
+}
+.service1 {
+  width: 400px;
+  height: 571px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 0px;
+  overflow: hidden;
+}
+.content-with-images {
+  width: 212px;
+  height: 216px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 94px;
+  overflow: hidden;
+}
+
+.service-image1 {
+  width: 120px;
+  height: 142px;
+  background: url("../images/contenido1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 47px;
+  overflow: hidden;
+}
+
+.service-imag1-content {
+  width: 399px;
+  height: 186px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 264px;
+  left: 1px;
+  overflow: hidden;
+}
+.service-title1 {
+  width: 400px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Bold;
+  font-size: 33px;
+  opacity: 1;
+  text-align: center;
+}
+.service-description1 {
+  width: 351px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 66px;
+  left: 24px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.button-info {
+  width: 236px;
+  height: 72px;
+  background: rgba(255,255,255,1);
+  padding: 24px 36px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 475px;
+  left: 82px;
+  overflow: hidden;
+}
+
+.button-meerinfo {
+  width: 164px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 24px;
+  left: 36px;
+  font-family: Montserrat;
+  font-weight: Medium;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.service2 {
+  width: 400px;
+  height: 574px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 420px;
+  overflow: hidden;
+}
+
+.service-image2 {
+  width: 119px;
+  height: 122px;
+  background: url("../images/contenido2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 46px;
+  overflow: hidden;
+}
+
+.service3 {
+  width: 400px;
+  height: 593px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 840px;
+  overflow: hidden;
+}
+
+.service-image3 {
+  width: 120px;
+  height: 120px;
+  background: url("../images/contenido3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  overflow: hidden;
+}
+
+.sectionThree {
+  width: 100%;
+  height: 889px;
+  background: rgba(255,255,255,1);
+  padding: 80px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1999px;
+  left: 0px;
+  overflow: hidden;
+}
+.content-description {
+  width: 100%;
+  height: 729px;
+  background: rgba(255,255,255,1);
+  margin: 40px;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  overflow: hidden;
+}
+.description-section3 {
+  width: 613px;
+  height: 121px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 313px;
+  overflow: hidden;
+}
+.title-section3 {
+  width: 207px;
+  color: rgba(0,163,89,1);
+  position: absolute;
+  top: 0px;
+  left: 203px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.text-section3 {
+  width: 613px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 61px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.content-with-three-images {
+  width: 100%;
+  height: 567px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 161px;
+  left: 0px;
+  overflow: hidden;
+}
+.option-img1 {
+  width: 610px;
+  height: 567px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.content-imagen-option1 {
+  width: 610px;
+  height: 567px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.imagen-option1 {
+  width: 610px;
+  height: 567px;
+  background: url("../images/imagen3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.info-option1 {
+  width: 363px;
+  height: 128px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 388px;
+  left: 0px;
+  overflow: hidden;
+}
+.title-option1 {
+  width: 315px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Regular;
+  font-size: 33px;
+  opacity: 1;
+  text-align: center;
+}
+.button-option1 {
+  width: 128px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 24px;
+  overflow: hidden;
+}
+.position-button1 {
+  width: 128px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.button-meerzien {
+  width: 102px;
+  color: rgba(0,163,89,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.content-image-option2 {
+  width: 610px;
+  height: 567px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 630px;
+  overflow: hidden;
+}
+.option-img2 {
+  width: 610px;
+  height: 271px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.positio-img2 {
+  width: 610px;
+  height: 271px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.imagen-option2 {
+  width: 610px;
+  height: 267px;
+  background: url("../images/imagen1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.info-option2 {
+  width: 496px;
+  height: 116px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 155px;
+  left: 0px;
+  overflow: hidden;
+}
+.title-option2 {
+  width: 448px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.position-button2 {
+  width: 128px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 68px;
+  left: 24px;
+  overflow: hidden;
+}
+
+.content-image-option3 {
+  width: 610px;
+  height: 271px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 303px;
+  left: 0px;
+  overflow: hidden;
+}
+.option-img3 {
+  width: 610px;
+  height: 271px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.image-option3 {
+  width: 610px;
+  height: 267px;
+  background: url("../images/imagen2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.info-option3 {
+  width: 566px;
+  height: 128px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 24px 24px;
+  margin: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 143px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.sectionFour {
+  width: 100%;
+  height: 956px;
+  background: rgba(255,255,255,1);
+  padding: 80px 0px;
+  opacity: 1;
+  position: absolute;
+  top: 2888px;
+  left: 0px;
+  overflow: hidden;
+}
+.info-section4 {
+  width: 100%;
+  height: 796px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  overflow: hidden;
+}
+.imagen-section4 {
+  width: 610px;
+  height: 796px;
+  background: url("../images/imageface.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.description-section4 {
+  width: 610px;
+  height: 376px;
+  background: rgba(255,255,255,1);
+  padding: 24px 24px;
+  margin: 22px;
+  opacity: 1;
+  position: absolute;
+  top: 211px;
+  left: 630px;
+  box-shadow: 0px 8px 16px rgba(0.20000000298023224, 0.20000000298023224, 0.20000000298023224, 0.25);
+  overflow: hidden;
+}
+.title-section4 {
+  width: 562px;
+  color: rgba(0,163,89,1);
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded ExtraBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.text-section4 {
+  width: 562px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 94px;
+  left: 24px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.sectionFive {
+  width: 100%;
+  height: 1048px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 3845px;
+  left: 0px;
+  overflow: hidden;
+}
+.content-section5 {
+  width: 100%;
+  height: 718px;
+  background: rgba(0,0,0,1);
+  padding: 40px 40px;
+  margin: 20px;
+  opacity: 1;
+  position: absolute;
+  top: 183px;
+  left: 100px;
+  overflow: hidden;
+}
+.info-section5 {
+  width: 424px;
+  height: 220px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 249px;
+  left: 40px;
+  overflow: hidden;
+}
+.title-section5 {
+  width: 424px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded ExtraBold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.backgroud-section5 {
+  width: 227px;
+  height: 20px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 72px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.text-contact {
+  width: 201px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1px;
+  left: 26px;
+  font-family: DM Sans;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.form {
+  width: 573px;
+  height: 638px;
+  background: rgba(0,163,89,1);
+  padding: 40px 40px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 627px;
+  overflow: hidden;
+}
+
+.form-fila1 {
+  width: 256px;
+  height: 246px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.nombre {
+  width: 256px;
+  height: 107px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.nombre-name {
+  width: 42px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+}
+.input-input {
+  width: 256px;
+  height: 72px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.tel {
+  width: 256px;
+  height: 107px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.form-fila2 {
+  width: 256px;
+  height: 246px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 280px;
+  overflow: hidden;
+}
+.email {
+  width: 256px;
+  height: 107px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.domilicio {
+  width: 256px;
+  height: 107px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.form-fila3 {
+  width: 536px;
+  height: 177px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 278px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.msj-input {
+  width: 550px;
+  height: 142px;
+  background: rgba(255,255,255,1);
+  padding: 24px 24px;
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  overflow: hidden;
+}
+.button-submit {
+  width: 182px;
+  height: 71px;
+  background: rgba(0,0,0,1);
+  padding: 24px 36px;
+  margin: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 487px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.button-submit-text {
+  width: 110px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 24px;
+  left: 36px;
+  font-family: Bebas Neue Pro;
+  font-weight: SemiExpanded Bold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: center;
+}
+
+.sectionSix {
+  width: 100%;
+  height: 274px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 4893px;
+  left: 0px;
+  overflow: hidden;
+}
+.contenedor-footer {
+  width: 100%;
+  height: 500px;
+  background: rgba(0,0,0,1);
+  padding: 44px 110px;
+  margin: 172px;
+  opacity: 1;
+  position: center;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+
+}
+.content-footer {
+  width: 100%;
+  height: 259px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 172px;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 110px;
+  overflow: hidden;
+}
+.final-footer {
+  width: 100%;
+  height: 50px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 180px;
+  left: 110px;
+  overflow: hidden;
+}
+.text-final-footer {
+  width: 326px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 447px;
+  font-family: DM Sans;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+
